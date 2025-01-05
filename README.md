@@ -7,10 +7,15 @@ Hi guys, I'm **Hongming**. I am a `Back-End engineer` from Beijing, China. I'm c
 
 I have some works with **C/C++**, **Rust** and **Python**, and I enjoy collaborating on projects that ad engine, high-performance networking/databases, and quantitative trading systems. Feel free to reach out if you share similar interests or have any questions!
 
+### 📬 Contact Me
+📧 **Email:**[1262775284@qq.com](mailto:1262775284@qq.com)
+
+<!-- ![](https://img.shields.io/static/v1?label=wechat&message=&color=7BB32E&logo=wechat) -->
+
 # 🎓 Education
 
-- Bachelor's Computer Science from the **Minzu University of China**, 2022/06 <img src="Muc.jpg" alt="Meituan" height="20">
-- Master's Software Engineering from the **Zhejiang University**, 2025/03 <img src="Zhejiang_University.svg" alt="Meituan" height="27">
+- Bachelor's Computer Science from the **Minzu University of China**, 2022/06 <img src="Muc.jpg" alt="MUC" height="20">
+- Master's Software Engineering from the **Zhejiang University**, 2025/03 <img src="Zhejiang_University.svg" alt="ZJU" height="27">
 
 
 # 💼 Work Experience
