@@ -20,10 +20,35 @@ I have some works with **C/C++**, **Rust** and **Python**, and I enjoy collabora
 
 # 💼 Work Experience
 
+
+### **Meituan**
+**Software Development Intern**  
+*Waimai Ad Team*  
+*Since 2025.04*
+
+**coming soon**
+
+---
+
 ### **Meituan**
 **Software Development Intern**  
 *Waimai Ad Team*  
 *2024.06 - 2024.09*
+
+**Operator Development for Recall Business in Meituan Waimai Ads**
+- Developed operators for the recall business on the merchant side of Meituan Waimai Ads.
+- Implemented recall logic for different businesses using TensorFlow to construct computational graphs.
+
+**Maintenance and Development of Payload Inverted Index**
+- Managed and enhanced the Payload inverted index.
+- Optimized the merge logic to reduce the time cost of long-chain retrieval by 20%.
+
+**Online Optimization of Core Retrieval Engine**
+- Tuned the core retrieval engine online.
+- Optimized thread splitting logic to decrease the average latency of the chain by 55% and reduced the 99th percentile latency (TP99) by 10%.
+
+**Assisted in Case Investigation and Problem Localization**
+- Helped investigate specific cases and identify issues such as online core dumps.
 
 ---
 
@@ -31,6 +56,15 @@ I have some works with **C/C++**, **Rust** and **Python**, and I enjoy collabora
 **C++ Algorithm Development Intern**  
 *Research Department*  
 *2023.02 - 2024.02*
+
+**UniXDE.CEM Electromagnetic Simulation Solver**
+- Development of pre-processing functions for geometry, meshing, boundary conditions, materials, etc., with acceleration of mesh relationship construction using OpenMP.
+- Development of Dense/Sparse Matrix in the Solver, with optimization of Sparse Matrix data structure for reading and writing.
+- Utilization of TMP (Template Meta-Programming) and CRTP (Curiously Recurring Template Pattern) to enhance program performance, and implementation of lazy evaluation for matrix computation optimization.
+
+**UniXDE.MSH CAE Pre-processing Tool**
+- Development of pre-processing modules and corresponding Web Servers using Parasolid/OCC and CeetronSAM/GMSH.
+- Participation in the development of integration architecture with existing solvers, and successful integration with solvers such as HFSS and QFlux.
 
 # 👨‍💻 Personal Projects
 
