@@ -22,7 +22,7 @@ I have some works with **C/C++**, **Rust** and **Python**, and I enjoy collabora
 
 
 ### **Meituan**
-**Software Development Intern**  
+**Software Development Engineer**  
 *Waimai Ad Team*  
 *Since 2025.04*
 
@@ -31,7 +31,7 @@ I have some works with **C/C++**, **Rust** and **Python**, and I enjoy collabora
 ---
 
 ### **Meituan**
-**Software Development Engineer**  
+**Software Development Intern**  
 *Waimai Ad Team*  
 *2024.06 - 2024.09*
 
